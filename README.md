@@ -1,1 +1,2 @@
-# Reproducible-Research-Assignment-Week-2
+# Reproducible-research-week-2-Project
+Reproducible research week 2 assignment
